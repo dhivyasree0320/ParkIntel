@@ -1,0 +1,46 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual environments and installed dependencies
+.venv/
+venv/
+env/
+ENV/
+site-packages/
+
+# Environment files and credentials
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Project-generated data, media, and model artifacts
+data/
+runs/
+pfe.v2i.yolov8/
+models/*.pt
+models/*.pkl
+*.onnx
+*.engine
+*.tflite
+*.pt
+
+# ML training caches and experiment files
+*.cache
+wandb/
+mlruns/
+mlartifacts/
