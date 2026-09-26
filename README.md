@@ -1,7 +1,6 @@
 # 🅿 ParkIntel – AI Smart Parking Management System
 
 > **YOLOv11 vehicle detection + Random Forest prediction + Streamlit dashboard**  
-> Dataset: *pfe Object Detection* by bouakkaz144.lotfi@gmail.com (Roboflow)
 
 ---
 
